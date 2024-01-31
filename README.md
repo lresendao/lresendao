@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasresende1506/)
 
 <!-- GithubStats -->
-![lresendao's GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=lresendao&show_icons=true&theme=gotham&layout=donut-vertical&size_weight=0.5&count_weight=0.5)(
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lresendao&size_weight=0.5&count_weight=0.5)
-
+![lresendao's GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=lresendao&show_icons=true&theme=gotham&layout=donut-vertical&size_weight=0.5&count_weight=0.5)
 <!-- Portfolio -->
 ## Portfolio:
 - [Javascript, CSS and HTML - Audiobook web application](https://github.com/lresendao/Javascript-projects/tree/lresendao-audiobook)
