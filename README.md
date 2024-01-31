@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Lucas! A passionate Analysis and System Development student from Brazil.
+  Hi 👋, I'm Lucas! A passionate student from Brazil.
 
-  - 🌱 I’m currently studying Analysis and System Development
+  - 🌱 I’m currently studying System Analysis and Development.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Deep learning AIs.
 </p>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Pernambuco, Brazil. I have fluency in English and have experience with Javascript, Python, CSS, HTML and PHP. I'm also a economy student since 2020, which helped me develop important skills such as companies and governments financial structure, market analysis, insights in math, calculus and data analytics.
+  - 💬 I am 23 years old, currently living in Pernambuco, Brazil. I have fluency in English and have experience with Javascript, Python, CSS, HTML and PHP. I'm also an economy student since 2020, which helped me develop important skills such as companies and governments financial structure, market analysis, insights in math, calculus and data analytics.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
