@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![lresendao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lresendao&theme=gotham)](https://github.com/lesendao/github-readme-stats)
 <!-- Portfolio -->
 ## Portfolio:
-- [Javascript, CSS and HTML - Audiobook web application](https://github.com/lresendao/Javascript-projects/tree/lresendao-audiobook)
+- [Javascript, CSS and HTML - Audiobook web application](https://github.com/lresendao/Front-end-projects/tree/main/Audiobook)
 - [Python - Loop calculator](https://github.com/lresendao/the-way-of-the-python/blob/main/loop_calculator_in_portuguese.py)
 <!-- GIF -->
 <p align="left">
