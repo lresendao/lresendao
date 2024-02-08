@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [![lresendao's GitHub stats](https://github-readme-stats.vercel.app/api?username=lresendao&theme=gotham)](https://github.com/lesendao/github-readme-stats)
 <!-- Portfolio -->
 ## Portfolio:
-- [Javascript, CSS and HTML - Audiobook web application](https://github.com/lresendao/Front-end-projects/tree/main/Audiobook)
-- [Javascript, CSS and HTML - Página de cadastro personalizada](https://pagina-de-cadastro-seven.vercel.app)
+- [Javascript, CSS and HTML - Audiobook web application](https://lucas-audio-book.vercel.app)
+- [Javascript, CSS and HTML - Página de cadastro personalizada](https://lucas-pagina-de-cadastro.vercel.app)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
