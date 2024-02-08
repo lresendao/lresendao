@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- Portfolio -->
 ## Portfolio:
 - [Javascript, CSS and HTML - Audiobook web application](https://github.com/lresendao/Front-end-projects/tree/main/Audiobook)
-- [Python - Loop calculator](https://github.com/lresendao/the-way-of-the-python/blob/main/loop_calculator_in_portuguese.py)
+- [Javascript, CSS and HTML - Página de cadastro personalizada](https://pagina-de-cadastro-seven.vercel.app)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
