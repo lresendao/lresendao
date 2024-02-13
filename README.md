@@ -63,10 +63,10 @@ Here are some ideas to get you started:
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Tools, Frameworks and Libraries</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="VScode" height="30" width="40" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   </div>
   
    
